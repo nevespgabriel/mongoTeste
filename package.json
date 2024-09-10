@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.20.0",
+    "mongoose": "^8.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "name": "mongoteste",
+  "version": "1.0.0",
+  "description": "Começando mongoDB",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
